@@ -1,0 +1,231 @@
+[
+  {
+    "name": "dashboard-desktop-1440",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "font": "\"Inter Variable\", Inter, sans-serif",
+    "regions": [
+      {
+        "name": "topbar",
+        "x": 216,
+        "y": 0,
+        "width": 1224,
+        "height": 88
+      },
+      {
+        "name": "metric-card metric-balance featured",
+        "x": 248,
+        "y": 192,
+        "width": 278,
+        "height": 120
+      },
+      {
+        "name": "metric-card metric-income ",
+        "x": 542,
+        "y": 192,
+        "width": 278,
+        "height": 120
+      },
+      {
+        "name": "metric-card metric-expenses ",
+        "x": 836,
+        "y": 192,
+        "width": 278,
+        "height": 120
+      },
+      {
+        "name": "metric-card metric-savings ",
+        "x": 1130,
+        "y": 192,
+        "width": 278,
+        "height": 120
+      },
+      {
+        "name": "card cash-card",
+        "x": 248,
+        "y": 336,
+        "width": 735.984375,
+        "height": 272
+      },
+      {
+        "name": "card income-card ",
+        "x": 1007.984375,
+        "y": 336,
+        "width": 400,
+        "height": 272
+      },
+      {
+        "name": "card recent-card",
+        "x": 248,
+        "y": 632,
+        "width": 735.984375,
+        "height": 244
+      },
+      {
+        "name": "card spending-card",
+        "x": 1007.984375,
+        "y": 632,
+        "width": 400,
+        "height": 244
+      }
+    ]
+  },
+  {
+    "name": "transactions-desktop-1440",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "font": "\"Inter Variable\", Inter, sans-serif",
+    "regions": [
+      {
+        "name": "topbar",
+        "x": 216,
+        "y": 0,
+        "width": 1224,
+        "height": 88
+      },
+      {
+        "name": "card transactions-card",
+        "x": 248,
+        "y": 192,
+        "width": 1160,
+        "height": 684
+      }
+    ]
+  },
+  {
+    "name": "analytics-desktop-1440",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "font": "\"Inter Variable\", Inter, sans-serif",
+    "regions": [
+      {
+        "name": "topbar",
+        "x": 216,
+        "y": 0,
+        "width": 1224,
+        "height": 88
+      },
+      {
+        "name": "metric-card metric-income featured",
+        "x": 248,
+        "y": 192,
+        "width": 278,
+        "height": 104
+      },
+      {
+        "name": "metric-card metric-expenses ",
+        "x": 542,
+        "y": 192,
+        "width": 278,
+        "height": 104
+      },
+      {
+        "name": "metric-card metric-net ",
+        "x": 836,
+        "y": 192,
+        "width": 278,
+        "height": 104
+      },
+      {
+        "name": "metric-card metric-savings ",
+        "x": 1130,
+        "y": 192,
+        "width": 278,
+        "height": 104
+      },
+      {
+        "name": "card income-card trends-card",
+        "x": 248,
+        "y": 320,
+        "width": 735.984375,
+        "height": 300
+      },
+      {
+        "name": "card category-breakdown",
+        "x": 1007.984375,
+        "y": 320,
+        "width": 400,
+        "height": 300
+      },
+      {
+        "name": "card perspective-card",
+        "x": 248,
+        "y": 644,
+        "width": 735.984375,
+        "height": 232
+      },
+      {
+        "name": "card insights-card",
+        "x": 1007.984375,
+        "y": 644,
+        "width": 400,
+        "height": 232
+      }
+    ]
+  },
+  {
+    "name": "dashboard-mobile-390",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "font": "\"Inter Variable\", Inter, sans-serif",
+    "regions": [
+      {
+        "name": "topbar",
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 68
+      },
+      {
+        "name": "metric-card metric-balance featured",
+        "x": 20,
+        "y": 80,
+        "width": 350,
+        "height": 110
+      },
+      {
+        "name": "metric-card metric-income ",
+        "x": 20,
+        "y": 206,
+        "width": 169,
+        "height": 96
+      },
+      {
+        "name": "metric-card metric-expenses ",
+        "x": 201,
+        "y": 206,
+        "width": 169,
+        "height": 96
+      },
+      {
+        "name": "card cash-card",
+        "x": 20,
+        "y": 318,
+        "width": 350,
+        "height": 174
+      },
+      {
+        "name": "card recent-card",
+        "x": 20,
+        "y": 508,
+        "width": 350,
+        "height": 201
+      },
+      {
+        "name": "mobile-nav",
+        "x": 0,
+        "y": 784,
+        "width": 390,
+        "height": 60
+      }
+    ]
+  }
+]

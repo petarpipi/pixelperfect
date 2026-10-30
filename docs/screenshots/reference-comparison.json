@@ -1,0 +1,57 @@
+{
+  "method": "Unaligned raw RGB difference, includes text rasterization and icon differences; not a fidelity percentage or pass threshold.",
+  "frames": [
+    {
+      "reference": "01 Desktop Dashboard.png",
+      "rendered": "dashboard-desktop-1440.png",
+      "size": [
+        1440,
+        900
+      ],
+      "mean_absolute_rgb_channel_difference_0_to_255": [
+        3.2780077160493826,
+        3.048704475308642,
+        2.598099537037037
+      ]
+    },
+    {
+      "reference": "02 Transactions.png",
+      "rendered": "transactions-desktop-1440.png",
+      "size": [
+        1440,
+        900
+      ],
+      "mean_absolute_rgb_channel_difference_0_to_255": [
+        2.9064760802469136,
+        2.5086003086419755,
+        2.210516203703704
+      ]
+    },
+    {
+      "reference": "03 Analytics.png",
+      "rendered": "analytics-desktop-1440.png",
+      "size": [
+        1440,
+        900
+      ],
+      "mean_absolute_rgb_channel_difference_0_to_255": [
+        3.7088996913580248,
+        3.425650462962963,
+        2.725651234567901
+      ]
+    },
+    {
+      "reference": "04 Mobile Dashboard.png",
+      "rendered": "dashboard-mobile-390.png",
+      "size": [
+        390,
+        844
+      ],
+      "mean_absolute_rgb_channel_difference_0_to_255": [
+        5.411587070117876,
+        4.692025154939847,
+        3.9520111799732653
+      ]
+    }
+  ]
+}
